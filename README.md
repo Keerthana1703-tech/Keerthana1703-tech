@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Keerthana Srinivasan</h1>
-<h3 align="center">Aspiring Java Developer | Final Year CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Keerthana1703-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keerthanasrinivasan17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:keerthanasrinivasan1703@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# 🚀 Welcome to My Coding Journey
 
+##👋 Hi, I'm Keerthana Srinivasan
 
+### Aspiring Java Developer | Final Year CSE Student
+
+<a href="https://github.com/Keerthana1703-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/keerthanasrinivasan17/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:keerthanasrinivasan1703@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 ## 👩‍💻 About Me
 
 - 🎓 B.E. Computer Science and Engineering (CSE'27)
