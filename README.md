@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Welcome to My Coding Journey
+<h1>👋 Welcome to My Coding Journey</h1>
 
-##👋 Hi, I'm Keerthana Srinivasan
+<h3>Hi, I'm Keerthana Srinivasan</h3>
 
-### Aspiring Java Developer | Final Year CSE Student
+<p>Aspiring Java Developer | Final Year CSE Student</p>
 
 <a href="https://github.com/Keerthana1703-tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -17,7 +17,8 @@
 </a>
 
 </div>
-## 👩‍💻 About Me
+
+👩‍💻 About Me
 
 - 🎓 B.E. Computer Science and Engineering (CSE'27)
 - 🏫 Park College of Engineering and Technology, Coimbatore
